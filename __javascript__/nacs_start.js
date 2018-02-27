@@ -1,5 +1,5 @@
 "use strict";
-// Transcrypt'ed from Python, 2018-02-27 10:03:53
+// Transcrypt'ed from Python, 2018-02-27 10:20:09
 function nacs_start () {
     var __symbols__ = ['__py3.6__', '__esv5__'];
     var __all__ = {};
@@ -2393,6 +2393,7 @@ function nacs_start () {
 			}
 		}
 	);
+
 	__nest__ (
 		__all__,
 		'nacs.comment', {
