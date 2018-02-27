@@ -86,3 +86,9 @@ for your page.
 Put following code to somewhere that needs to display a count:
 
 ```<span class="nacs-comment-count" data-id="some-id"></span>```
+
+5. Log in to your Firebase console. Add an item `admin` to the root entry in
+database, which is a string containing the UID of your admin user.
+
+**The admin is only user that can disable/enable comments for a given page.
+Each new page has comments by default disabled and must be enabled manually.**
