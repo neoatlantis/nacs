@@ -1,0 +1,4 @@
+*.pyc
+*.sw?
+*.mod.js
+nacs.config.js
